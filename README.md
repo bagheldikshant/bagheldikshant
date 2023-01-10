@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bagheldikshant
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack MERN Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a full stack MERN developer.
 - 📫 You Can reach me  @ bagheldikshant123@gmail.com
 
 <!---
